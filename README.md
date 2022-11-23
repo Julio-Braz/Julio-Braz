@@ -5,7 +5,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&count_private=true&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
