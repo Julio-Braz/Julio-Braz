@@ -15,3 +15,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true" />
 </picture>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true)
