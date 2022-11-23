@@ -5,11 +5,11 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&theme=react"
+  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&show_owner=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&count_private=true&show_icons=truetheme=vue"
+  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&count_private=true&show_owner=true&show_icons=truetheme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true" />
