@@ -5,7 +5,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -14,5 +14,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true" />
 </picture>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-Braz&theme=react&show_icons=true)
