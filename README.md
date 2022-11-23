@@ -5,8 +5,8 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&include_all_commits=true&show_owner=true&theme=react",
-"https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Braz"
+  srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&include_all_commits=true&show_owner=true&theme=react";
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Braz"
   media="(prefers-color-scheme: dark)"
 />
 <source
