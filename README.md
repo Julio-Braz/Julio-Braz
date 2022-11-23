@@ -1,5 +1,5 @@
 ### Olá pessoas 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-Braz)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&theme=radical)
 
 
 - 🔭 Atualmente trabalho na área comercial de uma empresa de tecnologia.
