@@ -6,7 +6,6 @@
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true&include_all_commits=true&show_owner=true&theme=react"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Braz"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -14,4 +13,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Julio-Braz&show_icons=true" />
-</picture>
+ />
+
+<picture>
+"https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Braz&layout=compact&langs_count=16&theme=dracula"
