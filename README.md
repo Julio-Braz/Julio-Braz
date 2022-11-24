@@ -29,7 +29,9 @@
  />
 
 </picture>
-##Tecnologias que tenho usado
+
+## Tecnologias que tenho usado
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Julio-TS"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
